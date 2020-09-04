@@ -6,7 +6,12 @@ The objectif of here is to practice data visualization and analyze, prepare and 
 With the help of Yahoo's financial database, the visualizations are:
 
  1. The distribution of the stock prices for the past year
+ 
+ ![](images/violinplot_Netflix.png)
+ 
  2. Netflix's earnings and revenue in the last four quarters
+ 
+ 
  3. The actual vs. estimated earnings per share for the four quarters in 2017
  4. A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017 
  

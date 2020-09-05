@@ -42,7 +42,6 @@ With the help of Yahoo's financial database, 4 visualizations have been created.
  Just by looking at the graph, Netflix’s stock price seems to be more volatile than Dowjones.
 
  The plots are uploaded as .png files if you wish to take a look at them. Also, you can find the .py as well as the .csv files in the repo.
- For presentation purposes, I have uploaded at .ppt file to discuss about the visualizations.
  
 Enjoy!
 

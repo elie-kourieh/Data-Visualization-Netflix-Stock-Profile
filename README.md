@@ -35,7 +35,7 @@ With the help of Yahoo's financial database, 4 visualizations have been created.
 
  4. A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017 
  
- ![](Visualization.png)
+ ![](Visualization4.png)
  
  Although the Dowjones stock prices are significantly greater than Netflix’s,
  it is safe to say both companies stock prices increased around 25% for Netflix and around 18% for Dowjones.

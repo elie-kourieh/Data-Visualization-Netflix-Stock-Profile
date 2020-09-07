@@ -2,7 +2,7 @@
 
 Thanks to Codeacademy for the amazing project!
 
-The objectif here is to practice data visualization and analyze, prepare and plot data with conda installation packages such as pandas, seaborn, matplotlib and jupyter.
+The objective here is to practice data visualization and analyze, prepare and plot data with conda installation packages such as pandas, seaborn, matplotlib and jupyter.
 With the help of Yahoo's financial database, 4 visualizations have been created. In summary, please find below the visualizations with their interpretation: 
 
  1. The distribution of Netflix's stock prices for 2017
